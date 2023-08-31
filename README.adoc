@@ -1,1 +1,2 @@
 # ubi8-git-maven-rsync
+image:https://quay.io/repository/ssitani/ubi8-git-maven-rsync/status["Docker Repository on Quay", link="https://quay.io/repository/ssitani/ubi8-git-maven-rsync"]
