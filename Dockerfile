@@ -10,5 +10,6 @@ RUN dnf update  \
   && curl --version \
   && mvn --version \
   && rsync --version \
-  && java -version # maven installed via dnf defaults to OpenJDK 8
+  && java -version  \
+    # maven installed via dnf defaults to OpenJDK 8
     # && java --version \
